@@ -1,4 +1,4 @@
-# Projects2
+# Projects
 # Design and Implementation of a Secure Company Network System
 
 # Requirements  
