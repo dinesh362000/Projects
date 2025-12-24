@@ -56,7 +56,7 @@ network.
 configured elements function as intended.
 
 # Image of the fully functional network topology and overview of the configuration
- 0. Network Design and beautification.
+ 0. Network Design topology.
  1. Basic settings to all devices + SSH + Standard ACL for SSH.
  2. VLAN assignment plus all access and trunk ports on 12 and 13 switches.
  3. STP Portfast and BPDUguard configs on all access ports.
